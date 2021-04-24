@@ -1,3 +1,9 @@
+# 项目存在很多问题：
+    已放弃
+    自动回复会报异常
+    个人订阅号无法认证，开发接口访问有限（https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Explanation_of_interface_privileges.html）
+    公众号账号多个添加会失败
+
 # wx-api
 微信公众号管理系统，支持多公众号接入。提供公众号菜单、自动回复、公众号素材、模板消息、CMS等管理功能
 
